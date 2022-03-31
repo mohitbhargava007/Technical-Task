@@ -1,7 +1,7 @@
 # Technical-Task
 
 The exercise:
-1.	XYZ Bank has multiple customers.  Each customer may hold multiple accounts.  Each account may have multiple account holders (customers).  How would you model this?
+1.	XYZ company has multiple customers.  Each customer may hold multiple accounts.  Each account may have multiple account holders (customers).  How would you model this?
 
 2.	Using your model, write a SQL query to return the total account balance for each customer where number of accounts is > 1
 
